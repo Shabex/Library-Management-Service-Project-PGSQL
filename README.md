@@ -558,6 +558,4 @@ select * from fine_table;
 
 ## Author - Shaban Ibrahim
 
-6h5f2Z5PK)
 
-Thank you for your interest in this project!
